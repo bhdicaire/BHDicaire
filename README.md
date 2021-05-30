@@ -14,12 +14,10 @@ I share some of my projects on Github since 2012, you can find more context for 
 * [1Password](1Password.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true)
+](https://github.com/anuraghazra/github-readme-stats)
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://BHDicaire.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/bhdicaire)<br>
 🐦 [Twitter](https://twitter.com/BHDicaire)
-
-### GitHub Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true)
-)](https://github.com/anuraghazra/github-readme-stats)
