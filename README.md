@@ -14,7 +14,7 @@ I share some of my projects on Github since 2012, you can find more context for 
 * [1Password](1Password.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 ### Find me elsewhere 🌎
 
