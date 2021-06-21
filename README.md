@@ -4,8 +4,6 @@ My name is BH Dicaire, my last name is pronounced “de-care” and my pronouns 
 
 🌱 I’m currently learning: [AWS Style Dictionnary](https://github.com/amzn/style-dictionary)
 
-🤔 Find me elsewhere
-
 🚀 [Site](https://BHDicaire.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/bhdicaire)<br>
 🐦 [Twitter](https://twitter.com/BHDicaire)
