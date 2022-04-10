@@ -1,8 +1,6 @@
 ### Hello 👋
 
-My name is BH Dicaire (he / him / his) and my last name is pronounced “de-care”. 
-
-I share some of my projects on Github since 2012, you can find more context for many of the repositories hosted here on my [personal blog](https://BHDicaire.com/en/). You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/BHDicaire?tab=stars). 
+I'm working at the intersection of security, and technology. I share projects on Github since 2012, you can find more context for many of the repositories hosted here on my [personal blog](https://BHDicaire.com/en/). You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/BHDicaire?tab=stars). 
 
 I'm active on 💼 [LinkedIn](https://www.linkedin.com/in/bhdicaire) and 🐦 [Twitter](https://twitter.com/BHDicaire).
 
