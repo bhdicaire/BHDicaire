@@ -4,6 +4,7 @@ I'm working at the intersection of security, and technology. I share projects on
 
 By the way, my last name is pronounced “de-care”.
 
+
 ### GitHub Statistics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ](https://github.com/anuraghazra/github-readme-stats)
