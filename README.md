@@ -8,5 +8,6 @@ By the way, my last name is pronounced “de-care”.
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/bhdicaire) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/bhdicaire)
 
+### Some statistics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ](https://github.com/anuraghazra/github-readme-stats)
