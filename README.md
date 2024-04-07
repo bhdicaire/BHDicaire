@@ -4,8 +4,6 @@ I'm working at the intersection of security, and technology. I share projects on
 
 By the way, my last name is pronounced “de-care”.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bhdicaire.visitor-badge&left_color=green&right_color=red)
-
 ### Elsewhere on the internet
 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/bhdicaire) 
